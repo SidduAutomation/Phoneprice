@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Amazon has lessar value for iphone xr(64GB)-Yellow than Flipkart]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28262" started-at="2019-12-26T10:12:21Z" finished-at="2019-12-26T10:12:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28262" started-at="2019-12-26T10:12:21Z" finished-at="2019-12-26T10:12:49Z">
+      <class name="scripts.Compare">
+        <test-method status="PASS" signature="compare_price()[pri:0, instance:scripts.Compare@4de8b406]" name="compare_price" duration-ms="28246" started-at="2019-12-26T15:42:21Z" finished-at="2019-12-26T15:42:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Amazon has lessar value for iphone xr(64GB)-Yellow than Flipkart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- compare_price -->
+      </class> <!-- scripts.Compare -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
